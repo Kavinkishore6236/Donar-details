@@ -1,0 +1,144 @@
+h1{
+    text-align: center;
+    color: rgb(255, 0, 0);
+}.kk{ 
+    display: block;
+    margin: auto;
+    width: 1206px;
+     /* background-color: blanchedalmond ;  */
+
+
+height: 700;}form {
+  background-color: rgba(115, 180, 255, 0.3); /* Black with 25% opacity */}
+.column1{
+ padding: 50px;font-weight: bold;
+  
+}.column3{
+ padding: 50px; 
+ margin-top: -158;color: rgb(0, 0, 0);
+ margin-left:900px;font-weight: bold; }.c{ transition: transform 0.3sec ease;
+    cursor: pointer;
+
+}
+.c:hover{
+    transform: scale(1.1);
+ 
+
+  
+}
+.b{
+       transition: transform 0.3sec ease;
+    cursor: pointer;
+
+}
+.b:hover{
+    transform: scale(1.1);
+}
+#av{
+   transition: transform 0.3sec ease;
+    cursor: pointer;
+
+}
+#av:hover{
+    transform: scale(1.1);}
+.column2{
+ padding: 50px;
+ margin-top: -158px;color: rgb(0, 0, 0);
+ margin-left: 450px;font-weight: bold;
+
+  
+}.column4{
+ padding: 50px;
+ /* margin-top: -139px; */
+ color: rgb(0, 0, 0);
+ /* margin-left: 450px; */
+ font-weight: bold;
+
+  
+}.column5{
+ padding: 50px;
+ margin-top: -158px;
+ color: rgb(0, 0, 0);
+ margin-left: 450px;
+ font-weight: bold;
+
+  
+}.column9{
+ padding: 50px;
+ 
+ color: rgb(0, 0, 0);
+ margin-left: 450px;
+ font-weight: bold;
+
+  
+}
+.span1{
+    width: 45px;
+   height:21px;height: 40px;
+    border-radius: 5px;
+    background-color: beige;
+    
+}.num{
+    width: 85px;height: 40px;
+    border-radius: 5px;
+    background-color: beige;
+    
+    
+
+}.history{
+    width: 185px;
+    height: 40px;
+    border-radius: 5px;
+    background-color: beige;   transition: transform 0.3sec ease;
+    cursor: pointer;
+
+}
+.history:hover{
+    transform: scale(1.1);
+}
+    
+.a,.b,.c,.an{
+    height: 40px; border-radius: 5px;
+    background-color: beige;
+}
+.c{
+    width:100px
+}
+#av{  height: 21px; border-radius: 5px;
+    background-color: beige;width: fit-content;
+    
+}
+.column6{
+padding: 50px;
+ margin-top: -159px;
+ color: rgb(0, 0, 0);
+ margin-left: 900px;
+ font-weight: bold;
+  
+}
+.button1{
+    display: block;
+    margin: auto;
+    height: 50px;
+    width: 150px;
+    background-color: rgb(146, 212, 243) ;
+    color: rgb(25, 0, 255);
+    border: white;
+    border-radius: 10px;
+    transition: transform 0.3sec ease;
+    cursor: pointer;
+    font-weight: bold;
+
+
+}
+.button1:hover{
+    transform: scale(1.1);
+}
+.fd{
+    height: 678px;
+    
+
+}body{
+    background-image: url(bg2.jpg);
+    
+}
