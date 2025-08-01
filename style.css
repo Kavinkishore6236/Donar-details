@@ -1,6 +1,16 @@
-h1{
-    text-align: center;
+h1{padding:52px ;
+   
     color: rgb(255, 0, 0);
+    background-color:  rgb(146, 212, 243) ;
+    text-align: center;
+    display: block;
+    margin: auto;
+    width: 1100px;
+    margin-top: 70px;
+    
+    
+    
+
 }.kk{ 
     display: block;
     margin: auto;
@@ -65,6 +75,7 @@ height: 700;}form {
   
 }.column9{
  padding: 50px;
+ width: 
  
  color: rgb(0, 0, 0);
  margin-left: 450px;
@@ -79,7 +90,7 @@ height: 700;}form {
     background-color: beige;
     
 }.num{
-    width: 85px;height: 40px;
+    width: 95px;height: 40px;
     border-radius: 5px;
     background-color: beige;
     
@@ -136,6 +147,7 @@ padding: 50px;
 }
 .fd{
     height: 678px;
+    
     
 
 }body{
